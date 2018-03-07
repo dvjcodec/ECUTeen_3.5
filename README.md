@@ -1,6 +1,6 @@
 # ECUTeen_3.5
 
-Stand Alone ECU for gas only engines
+Stand Alone ECU
 
 ![Board](2.jpg?raw=true "Board")
 
