@@ -5,4 +5,5 @@
 
 ## Authors
 
-Krzysztof @ Seaside Customs
+Krzysztof @ Seaside Customs Garage
+http://www.garage.seasidecustoms.com
