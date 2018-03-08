@@ -15,7 +15,7 @@ On the board:
 - tachometer out
 - 5V power supply with LM2596
 - 2x O2 sensor input
-- CAN input/output
+- CAN
 - inlet air temperature sensor input
 - coolant temperature sensor input
 - throttle position sensor input
