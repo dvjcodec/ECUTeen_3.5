@@ -2,7 +2,7 @@
 
 Stand Alone ECU
 
-![Board](2.jpg?raw=true "Board")
+![Board](Renders/2.jpg?raw=true "Board")
 
 ## Firmware
 
