@@ -1,4 +1,4 @@
-# ECUTeen_3.5 rev.A
+# ECUTeen_3.5 rev.A (not tested!)
 
 Stand Alone ECU with Teensy 3.5
 
